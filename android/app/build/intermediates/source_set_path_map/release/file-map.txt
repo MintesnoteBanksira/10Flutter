@@ -1,0 +1,13 @@
+com.example.my_first_app-jetified-window-java-1.0.0-beta04-0 /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/8141aba134d8d57982f6acec345fdc96/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.my_first_app-jetified-window-1.0.0-beta04-1 /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a271bec5ed0fd9e9f038cc66bea0b168/transformed/jetified-window-1.0.0-beta04/res
+com.example.my_first_app-core-1.6.0-2 /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a3789c037322475b78de9534438132ad/transformed/core-1.6.0/res
+com.example.my_first_app-jetified-annotation-experimental-1.1.0-3 /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/e2dff2513995940b68f3fc3c755c5772/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.my_first_app-packaged_res-4 /Users/mintesnotebanksirabiza/.pub-cache/hosted/pub.dev/path_provider_android-2.2.9/android/build/intermediates/packaged_res/release
+com.example.my_first_app-pngs-5 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/build/generated/res/pngs/release
+com.example.my_first_app-resValues-6 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/build/generated/res/resValues/release
+com.example.my_first_app-rs-7 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/build/generated/res/rs/release
+com.example.my_first_app-mergeReleaseResources-8 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.my_first_app-mergeReleaseResources-9 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.my_first_app-merged_res-10 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/build/intermediates/merged_res/release
+com.example.my_first_app-main-11 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/res
+com.example.my_first_app-release-12 /Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/release/res

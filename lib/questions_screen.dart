@@ -21,7 +21,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
   @override
   void initState() {
     super.initState();
-    ten_questions.shuffle(Random()); // Shuffle the questions
+    ten_questions = getTenRandomQuestions(); // Shuffle the questions
   }
 
   void changeQuestion(int index, String answer) {

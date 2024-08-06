@@ -1,0 +1,94 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.my_first_app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:28:5-33:15
+12        <intent>
+12-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:29:9-32:18
+13            <action android:name="android.intent.action.PROCESS_TEXT" />
+13-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:30:13-72
+13-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:30:21-70
+14
+15            <data android:mimeType="text/plain" />
+15-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:31:13-50
+15-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:31:19-48
+16        </intent>
+17    </queries>
+18
+19    <application
+20        android:name="android.app.Application"
+20-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:4:9-42
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.6.0] /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a3789c037322475b78de9534438132ad/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:5:9-43
+23        android:label="10Flutter" >
+23-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:3:9-34
+24        <activity
+24-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:6:9-23:20
+25            android:name="com.example.my_first_app.MainActivity"
+25-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:7:13-41
+26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+26-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:12:13-163
+27            android:exported="true"
+27-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:8:13-36
+28            android:hardwareAccelerated="true"
+28-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:13:13-47
+29            android:launchMode="singleTop"
+29-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:9:13-43
+30            android:taskAffinity=""
+30-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:10:13-36
+31            android:theme="@style/LaunchTheme"
+31-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:11:13-47
+32            android:windowSoftInputMode="adjustResize" >
+32-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:14:13-55
+33            <meta-data
+33-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:15:13-18:19
+34                android:name="io.flutter.embedding.android.NormalTheme"
+34-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:16:17-72
+35                android:resource="@style/NormalTheme" />
+35-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:17:17-54
+36
+37            <intent-filter>
+37-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:19:13-22:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:20:17-68
+38-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:20:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:21:17-76
+40-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:21:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <meta-data
+44-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:24:9-26:33
+45            android:name="flutterEmbedding"
+45-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:25:13-44
+46            android:value="2" />
+46-->/Users/mintesnotebanksirabiza/Desktop/flutter/my_first_app/android/app/src/main/AndroidManifest.xml:26:13-30
+47
+48        <uses-library
+48-->[androidx.window:window:1.0.0-beta04] /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a271bec5ed0fd9e9f038cc66bea0b168/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+49            android:name="androidx.window.extensions"
+49-->[androidx.window:window:1.0.0-beta04] /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a271bec5ed0fd9e9f038cc66bea0b168/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+50            android:required="false" />
+50-->[androidx.window:window:1.0.0-beta04] /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a271bec5ed0fd9e9f038cc66bea0b168/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+51        <uses-library
+51-->[androidx.window:window:1.0.0-beta04] /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a271bec5ed0fd9e9f038cc66bea0b168/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+52            android:name="androidx.window.sidecar"
+52-->[androidx.window:window:1.0.0-beta04] /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a271bec5ed0fd9e9f038cc66bea0b168/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+53            android:required="false" />
+53-->[androidx.window:window:1.0.0-beta04] /Users/mintesnotebanksirabiza/.gradle/caches/transforms-3/a271bec5ed0fd9e9f038cc66bea0b168/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+54    </application>
+55
+56</manifest>
